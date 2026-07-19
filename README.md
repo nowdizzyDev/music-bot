@@ -32,8 +32,8 @@ npm install
 ```
 
 ```bash
-npm run deploy
-npm start
+node deploy-commands.js
+node index.js
 ```
 
 ## Komutlar
